@@ -47,10 +47,8 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mscjaviergs?style=flat)
-![Static Badge](https://img.shields.io/badge/project_link-javiergs.info%2Fteaching-orange?link=http%3A%2F%2Fjaviergs.info%2Fteaching%2F)
 
-[![platform](https://img.shields.io/badge/platform-ubuntu%20%7C%20windows-lightgrey?style=flat-square)][(https://github.com/Ismoh/NoitaMP){:target="_blank" rel="noopener"}]
-[![platform](https://img.shields.io/badge/project_link-javiergs.info%2Fteaching-orange?style=flat-square)](http://javiergs.info/teaching){:target="_blank" rel="noopener"}
+[![platform](https://img.shields.io/badge/project_link-javiergs.info%2Fteaching-orange?style=flat-square)](http://javiergs.info/teaching)
 
 
 
