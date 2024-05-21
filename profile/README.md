@@ -19,7 +19,8 @@ Any contributions you make are greatly appreciated.
 5. Open a Pull Request
 
 ## Contact
-[![platform](https://img.shields.io/twitter/follow/mscjaviergs?style=flat-square)](https://x.com/intent/follow?screen_name=mscjaviergs) [![platform](https://img.shields.io/badge/project_link-javiergs.info%2Fteaching-orange?style=flat-square)](http://javiergs.info/teaching)
+![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
+[![platform](https://img.shields.io/twitter/follow/mscjaviergs?style=flat-square)](https://x.com/intent/follow?screen_name=mscjaviergs) [![platform]
 
 
 
