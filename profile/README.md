@@ -49,3 +49,5 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mscjaviergs?style=flat)
 ![Static Badge](https://img.shields.io/badge/project_link-javiergs.info%2Fteaching-orange?link=http%3A%2F%2Fjaviergs.info%2Fteaching%2F)
 
+<img alt="Static Badge" src="https://img.shields.io/badge/project_link-javiergs.info%2Fteaching-orange?link=http%3A%2F%2Fjaviergs.info%2Fteaching%2F">
+
