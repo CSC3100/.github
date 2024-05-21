@@ -1,7 +1,7 @@
 # CSC 3100
 # Fundamentals on Software Engineering
 
-Briefly describe what your project does, why it exists, and its purpose. Include a screenshot or demo if possible.
+Software process models. Principles for engineering requirements, analysis, and design of large software systems. Methods and tools for implementation, continuous integration, testing, project planning, tracking, documentation, communication, and quality assurance. Analysis of engineering tradeoffs, and cost estimation.
 
 ## Table of Contents
 - [Topics](#topics)
@@ -10,7 +10,8 @@ Briefly describe what your project does, why it exists, and its purpose. Include
 
 
 ## Topics
-
+- [Example of Client-Server Architecture](https://github.com/CSC308/Pong-Game)
+- [Example of Service API](https://github.com/CSC308/Cloud-Services)
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. 
