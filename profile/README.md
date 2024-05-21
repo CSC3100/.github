@@ -1,12 +1,52 @@
-## Hi there 👋
+# CSC 3100
+# Fundamentals on Software Engineering
+
+![Project Logo](https://your-image-url.com/logo.png)
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About the Project
+
+[![Build Status](https://img.shields.io/github/actions/workflow/status/username/repository/build.yml?branch=main)](https://github.com/username/repository/actions)
+[![GitHub Issues](https://img.shields.io/github/issues/username/repository)](https://github.com/username/repository/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/username/repository)](https://github.com/username/repository/network)
+[![GitHub Stars](https://img.shields.io/github/stars/username/repository)](https://github.com/username/repository/stargazers)
+
+Briefly describe what your project does, why it exists, and its purpose. Include a screenshot or demo if possible.
+
+![Demo Screenshot](https://your-image-url.com/demo.png)
+
+## Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/username/repository.git
 
 
+## Contributing
 
-**Here are some ideas to get you started:**
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
 
+## License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+## Contact
+
+@mscjaviergs - <b>javiergs</b> at acm dot org
+
+Project Link: https://javiergs.info/teaching/
