@@ -15,10 +15,10 @@
 
 ## About the Project
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/username/repository/build.yml?branch=main)](https://github.com/username/repository/actions)
-[![GitHub Issues](https://img.shields.io/github/issues/username/repository)](https://github.com/username/repository/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/username/repository)](https://github.com/username/repository/network)
-[![GitHub Stars](https://img.shields.io/github/stars/username/repository)](https://github.com/username/repository/stargazers)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/username/repository/build.yml?branch=main)](https://github.com/CSC308/repository/actions)
+[![GitHub Issues](https://img.shields.io/github/issues/username/repository)](https://github.com/CSC308/repository/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/username/repository)](https://github.com/CSC308/repository/network)
+[![GitHub Stars](https://img.shields.io/github/stars/username/repository)](https://github.com/CSC308/repository/stargazers)
 
 Briefly describe what your project does, why it exists, and its purpose. Include a screenshot or demo if possible.
 
