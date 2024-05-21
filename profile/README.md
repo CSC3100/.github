@@ -46,9 +46,7 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mscjaviergs?style=flat)
-
-[![platform](https://img.shields.io/badge/project_link-javiergs.info%2Fteaching-orange?style=flat-square)](http://javiergs.info/teaching)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mscjaviergs?style=flat-square) [![platform](https://img.shields.io/badge/project_link-javiergs.info%2Fteaching-orange?style=flat-square)](http://javiergs.info/teaching)
 
 
 
