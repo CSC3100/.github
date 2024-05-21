@@ -3,12 +3,6 @@
 
 Software process models. Principles for engineering requirements, analysis, and design of large software systems. Methods and tools for implementation, continuous integration, testing, project planning, tracking, documentation, communication, and quality assurance. Analysis of engineering tradeoffs, and cost estimation.
 
-## Table of Contents
-- [Topics](#topics)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
-
 ## Topics
 - [Example of Client-Server Architecture](https://github.com/CSC308/Pong-Game)
 - [Example of Service API](https://github.com/CSC308/Cloud-Services)
