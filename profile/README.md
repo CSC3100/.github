@@ -1,4 +1,4 @@
-# Fundamentals on Software Engineering
+# Software Engineering Fundamentals
 
 Software process models. Principles for engineering requirements, analysis, and design of large software systems. Methods and tools for implementation, continuous integration, testing, project planning, tracking, documentation, communication, and quality assurance. Analysis of engineering tradeoffs, and cost estimation.
 
