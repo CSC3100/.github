@@ -5,7 +5,7 @@ Software process models. Principles for engineering requirements, analysis, and 
 :green_book: This integrate the current courses CSC 307, 308, and 309.
 
 ## Topics
-- [Example of Client-Server Architecture](https://github.com/CSC308/Pong-Game)
+- [Example of Client-Server Architecture (TCP Sockets)](https://github.com/CSC308/Pong-Game)
 - [Example of Service API](https://github.com/CSC308/Cloud-Services)
 
 ## Contributing
