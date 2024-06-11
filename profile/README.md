@@ -8,7 +8,7 @@ Software process models. Principles for engineering requirements, analysis, and 
 :green_book: This integrate the current courses CSC 307, 308, and 309.
 
 ## Topics
-- [Examples of Swing capabilities](https://github.com/CSC3100/GUI)
+- [Examples of Swing capabilities](https://github.com/CSC3100/Swing)
 - [Example of Client-Server Architecture (TCP Sockets)](https://github.com/CSC3100/Pong-Game)
 - [Example of Service API](https://github.com/CSC3100/Cloud-Services)
 - [Example of MQTT Publish-Subscriber](https://github.com/CSC3100/MQTT)
