@@ -5,7 +5,7 @@
 
 Software process models. Principles for engineering requirements, analysis, and design of large software systems. Methods and tools for implementation, continuous integration, testing, project planning, tracking, documentation, communication, and quality assurance. Analysis of engineering tradeoffs, and cost estimation.
 
-:green_book: This integrate the current courses CSC 307, 308, and 309.
+:green_book: This organization integrates resources for the current courses CSC 307, 308, and 309.
 
 ## Topics
 - [Examples of Swing capabilities](https://github.com/CSC3100/Swing)
