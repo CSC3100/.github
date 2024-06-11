@@ -1,6 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
 [![platform](https://img.shields.io/twitter/follow/mscjaviergs?style=flat-square)](https://x.com/intent/follow?screen_name=mscjaviergs)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 # Software Engineering Fundamentals
 
