@@ -8,8 +8,8 @@ Software process models. Principles for engineering requirements, analysis, and 
 :green_book: This organization integrates resources for the current courses CSC 307, 308, and 309.
 
 ## Topics
-- Examples of Swing capabilities: [Swing](https://github.com/CSC3100/Swing), [Paint Application](https://github.com/CSC3100/Swing), [Game of Life](https://github.com/CSC3100/Swing)
-- Example of Client-Server Architecture (TCP Sockets): [Multiuser Pong Game](https://github.com/CSC3100/Pong-Game)
+- Examples of Swing capabilities: [Swing](https://github.com/CSC3100/Swing), [Paint Application](https://github.com/CSC3100/Paint), [Game of Life](https://github.com/CSC3100/Game-Life)
+- Example of Client-Server Architecture (TCP Sockets): [Pong Game](https://github.com/CSC3100/Pong-Game)
 - [Example of Service API](https://github.com/CSC3100/Cloud-Services)
 - [Example of MQTT Publish-Subscriber](https://github.com/CSC3100/MQTT)
 
